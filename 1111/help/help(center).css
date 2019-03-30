@@ -1,0 +1,85 @@
+*{font-family: Arial; color:black}
+#yt-logo{
+position: absolute;
+width:80px;
+height:24px;
+left: 40px;
+top: 17px;
+cursor: pointer;
+}
+#poisk-v-shapke{
+position: absolute;
+//width:400px;
+height:24px;
+left: 200px;
+top: 17px;
+//border: 1px solid black;
+//cursor: text;
+}
+#menu-v-shapke{
+position: absolute;
+width:100px;
+height:24px;
+left: 740px;
+top: 17px;
+background-color: white;
+cursor: pointer;
+}
+
+.menu-left-section-header{
+width: 240px;
+height: 40px;
+margin-top: 50px;
+margin-left: 20px;
+margin-right: 20px;
+margin-bottom: 15px;
+font-size: 120%;
+background-color: green;
+}
+.menu-left-item{
+display: block;
+padding-top: 10px;
+padding-left: 20 px;
+height: 40px;
+font-family: Arial;
+width: 100%;
+}
+.menu-left-item img{
+vertical-align: middle;
+}
+.menu-left-item:hover{
+ background-color:#000000;
+}
+.video{
+width: 200px;
+height: 100px;
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 10px;
+padding-top: 0px;
+padding-left: 0px;
+padding-right: 0px;
+padding-bottom: 20px;
+float:left;
+background-color:grey;
+}
+#menu-left{
+position:fixed;
+background-color: blue;
+widht: 240px;
+left: 0px;
+height: 100%;
+overflow: auto;
+}
+#videos{
+position: absolute;
+left: 280px;
+}
+#osnova{
+position: absolute;
+width: 100%;
+left: 0px;
+top: 60px;
+background-color: green;
+{

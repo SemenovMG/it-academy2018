@@ -1,0 +1,14 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>поиск</title>
+</head>
+<body> 
+   <form method="get" action="https://vk.com/search">
+    <input type="text" name="c[q]"/><br>
+<input type="c[age_from]" 
+   <input type="age" name="c[q]"/>
+ <input type="submit" value="Войти"/>
+</form>
+</body>
+</html>
